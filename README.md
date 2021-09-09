@@ -15,8 +15,17 @@ It also contains function which are <br />
 - mine block(Function to add new block to the chain). <br />
 <br />
 <br />
-## **blockchain.py**
 
+
+## **grey_coins.py**
 -All the 3 files **grey_coins1.py, grey_coins2.py, grey_coins3.py** are almost the same, they are the 3 users and miners in our chain they run on 3 different ports("http://127.0.0.1:5001,"http://127.0.0.1:5002","http://127.0.0.1:5003"). <br />
--This is the extension of the file blockchain.py
+-For communication and performing CURD operations, we have used Postman(You can install it from )
+-This is the extension of the file blockchain.py. It gives the user options to add transactions/ mine blocks and gain rewards, it also resolves the issue of longest chain, consideing the longest chain as correct.
+
+## **Run Project**
+-To run the project, open 3 terminals and postman, run 3 different python files on 3 different terminals
+<br />
+- python3 grey_coins1.py <br />
+- python3 grey_coins2.py <br /> 
+- python3 grey_coins3.py <br />
 
