@@ -1,6 +1,6 @@
 # Grey-coins
 This projects aims to demonstate, the working of blockchain and mining of bitcoins.
-
+---
 ##**blockchain.py**
 This file contains the basic structure of a blockchain, it contains basic functions which every blockchain has
 following member functions
