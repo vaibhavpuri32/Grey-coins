@@ -16,6 +16,7 @@ It also contains function which are <br />
 <br />
 <br />.
 ### **grey_coins.py**
+<br />
 -All the 3 files **grey_coins1.py, grey_coins2.py, grey_coins3.py** are almost the same, they are the 3 users and miners in our chain they run on 3 different ports("http://127.0.0.1:5001,"http://127.0.0.1:5002","http://127.0.0.1:5003").
 -This is the extension of the file blockchain.py
 
